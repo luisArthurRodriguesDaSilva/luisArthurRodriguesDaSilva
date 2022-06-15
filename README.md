@@ -21,7 +21,7 @@
       </a>
       <br/>
       <img style="background-color:powderblue;" width="20" src="https://cdn.usbrandcolors.com/images/logos/twitter-logo.svg" target="_blank">2:
-         <a href="https://twitter.com/qwert44777" target="_blank">@qwerty44777</a>
+         <a href="https://twitter.com/qwerty44777" target="_blank">@qwerty44777</a>
       </a>
  </div>
 </div>
